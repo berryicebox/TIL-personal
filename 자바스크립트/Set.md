@@ -33,6 +33,3 @@ const resultContainer = new Set([10, 20, 30]);
 console.log(resultContainer.has(20)); // true
 console.log(resultContainer.has(99)); // false
 ```
-
-// 조건문에서의 활용
-if (resultContainer.has(number)) return i;
